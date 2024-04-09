@@ -1,0 +1,17 @@
+{
+  "name": "datejs",
+  "version": "1.0.0",
+  "description": "A Node.js application providing solutions for date and time calculation issues.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "keywords": ["date", "time", "datejs", "cal date", "cal time", "date calculation", "time calculation"],
+  "author": "Ushan Chamod",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
